@@ -1,6 +1,3 @@
-# Ignore backend (local only, not pushed)
-recipe-blog-backend/
-
 # Dependency directories
 node_modules/
 **/node_modules/
